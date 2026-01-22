@@ -1,0 +1,5 @@
+{
+  "name": "Graph Insights: Wikidata vs Grokipedia/Spanner",
+  "description": "A deep-dive comparison tool between global knowledge bases like Wikidata and enterprise-grade graph solutions like Google Cloud Spanner Graph (documented on Grokipedia), powered by Gemini 3 Pro with Google Search grounding.",
+  "requestFramePermissions": []
+}
